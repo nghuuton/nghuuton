@@ -1,6 +1,5 @@
 <h2> Hi, I'm Huu Ton! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
@@ -9,9 +8,19 @@
 
 ```javascript
 const Ton = {
-  pronouns: "she" | "her",
-  code: [Javascript,HTML, CSS],
+  pronouns: "He" | "Him",
+  code: [Javascript, HTML, CSS],
   tools: [React, Redux, Node, Storybook],
+  technologies: {
+        frontEnd: {
+            js: ["React", "Vue"],
+            css: ["materialize", "vuetify", "bootstrap", "ant design"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+ },
+ architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and javascript"
 }
 ```
@@ -20,4 +29,4 @@ const Ton = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/nghuuton)
+⭐️ From [@](https://github.com/nghuuton)
