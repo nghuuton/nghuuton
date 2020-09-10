@@ -19,6 +19,7 @@ const Ton = {
         backEnd: {
             js: ["node", "express"],
         },
+        databases: ["mongo", "MySql", "Postgre"],
  },
  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
  challenge: "I am doing the #100DaysOfCode challenge focused on react and javascript"
@@ -29,4 +30,4 @@ const Ton = {
 
 ---
 
-⭐️ From [@](https://github.com/nghuuton)
+⭐️ From [@HuuTon](https://github.com/nghuuton)
