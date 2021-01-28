@@ -26,6 +26,9 @@ const Ton = {
 }
 ```
 <h3> My Project </h3>
+<p> Slack App Clone: https://react-slack-28784.web.app/login </p>
+<p> Waves (Guitar Shop): https://the-waves.herokuapp.com/ </p>
+<p> Coffee System (Manager Coffee): https://coffee-sytem.herokuapp.com/ </p>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
