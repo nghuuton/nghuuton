@@ -6,7 +6,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<a href="https://app.daily.dev/huuton"><img src="https://api.daily.dev/devcards/cb7cf704df484929a5cf393afe440f38.png?r=uh7" width="50" alt="Huu Ton's Dev Card"/></a>
+
 
 ```javascript
 const Ton = {
@@ -31,6 +31,7 @@ const Ton = {
 <p> Slack App Clone: https://react-slack-28784.web.app/login </p>
 <p> Waves (Guitar Shop): https://the-waves.herokuapp.com/ </p>
 <p> Coffee System (Manager Coffee): https://coffee-sytem.herokuapp.com/ </p>
+<a href="https://app.daily.dev/huuton"><img src="https://api.daily.dev/devcards/cb7cf704df484929a5cf393afe440f38.png?r=uh7" width="400" alt="Huu Ton's Dev Card"/></a>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
