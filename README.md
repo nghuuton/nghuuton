@@ -1,6 +1,5 @@
 <h2> Hi, I'm Huu Ton! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-//<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<a align='right' href="https://app.daily.dev/huuton"><img src="https://api.daily.dev/devcards/cb7cf704df484929a5cf393afe440f38.png?r=uh7" width="50" alt="Huu Ton's Dev Card"/></a>
+<a align='right' href="https://app.daily.dev/huuton"><img align='right' src="https://api.daily.dev/devcards/cb7cf704df484929a5cf393afe440f38.png?r=uh7" width="230" alt="Huu Ton's Dev Card"/></a>
 [![GitHub HuuTon](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/nghuuton)
 
 
