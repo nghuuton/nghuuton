@@ -8,26 +8,14 @@
 ```javascript
 const Ton = {
   pronouns: "He" | "Him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Redux, Node, Storybook],
-  technologies: {
-        frontEnd: {
-            js: ["React", "Vue"],
-            css: ["materialize", "vuetify", "bootstrap", "ant design"]
-        },
-        backEnd: {
-            js: ["node", "express"],
-        },
-        databases: ["mongo", "MySql", "Postgre"],
- },
- architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and javascript"
+  code: [Javascript, HTML, CSS, Typescript],
+  tools: [React, React Native, Redux, Redux-Saga, Docker, Node, Storybook, Nginx, Webpack, Repack],
+  architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Microservice Front End", "Microservice Back End"],
+  challenge: "I am finding the new challenge"
 }
 ```
-<h3> My Project </h3>
-<p> Slack App Clone: https://react-slack-28784.web.app/login </p>
-<p> Waves (Guitar Shop): https://the-waves.herokuapp.com/ </p>
-<p> Coffee System (Manager Coffee): https://coffee-sytem.herokuapp.com/ </p>
+<h3> About Me </h3>
+<p> Front End Developer </p>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
